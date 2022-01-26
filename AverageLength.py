@@ -10,3 +10,4 @@ class Solution:
         return result
 
 print(Solution.Average_Length("I am blessed and highly favoured"))
+print(Solution.Average_Length("How are you"))
